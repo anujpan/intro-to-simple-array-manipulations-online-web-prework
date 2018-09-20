@@ -30,3 +30,4 @@ def shift_with_args(array)
   
   shifted
 end
+
