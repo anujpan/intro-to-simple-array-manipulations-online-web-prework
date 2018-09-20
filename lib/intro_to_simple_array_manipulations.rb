@@ -40,7 +40,7 @@ def using_insert(array, element)
 end
 
 def using_uniq(array)
-  array.using_uniq
+  array.uniq
 end
 
 def using_flatten(array)
